@@ -22,6 +22,7 @@ Key Features
 
 System Architecture
 
+<pre>
 Dataset (SST-2)
         ↓
 Text Preprocessing & Tokenization
@@ -37,8 +38,11 @@ Knowledge Distillation Training
 Optimizer Benchmarking
         ↓
 Evaluation & Visualization
+</pre>
+
 
 Repository Structure
+<pre>
 optimizer-aware-knowledge-distillation/
 │
 ├── data/
@@ -71,6 +75,8 @@ optimizer-aware-knowledge-distillation/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+</pre>
+
 
 Dataset
 The project uses the SST-2 (Stanford Sentiment Treebank) dataset for binary sentiment classification.
