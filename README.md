@@ -21,6 +21,7 @@ Key Features
 * Confusion Matrix Analysis
 
 System Architecture
+
 Dataset (SST-2)
         ↓
 Text Preprocessing & Tokenization
@@ -68,7 +69,8 @@ optimizer-aware-knowledge-distillation/
 │   └── trained_student/
 │
 ├── requirements.txt
-└── [README.md](http://readme.md/)
+├── README.md
+└── LICENSE
 
 Dataset
 The project uses the SST-2 (Stanford Sentiment Treebank) dataset for binary sentiment classification.
