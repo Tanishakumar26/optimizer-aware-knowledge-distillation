@@ -134,7 +134,7 @@ The project evaluates optimizer performance using validation accuracy and traini
 | SGD | 86% |
 | RMSprop | 52% |
 
-Best Validation Accuracy Achieved: 83%
+Best Validation Accuracy Achieved: 86%
 
 Key Findings
 * Adam and SGD showed best convergence performance
@@ -143,9 +143,12 @@ Key Findings
 * Knowledge distillation successfully reduced model complexity while maintaining strong predictive performance
 
 Sample Visualizations
-Model Performance Analysis
-results/figures/optimizer_accuracy.png
-results/figures/loss_curve.png
+
+Optimizer Comparison
+<img src="./results/figures/optimizer_accuracy.png" width="700"/>
+
+Training Loss Curve
+<img src="./results/figures/loss_curve.png" width="700"/>
 
 Tech Stack
 Languages & Frameworks
