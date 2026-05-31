@@ -1,4 +1,6 @@
-Optimizer-Aware Knowledge Distillation for Lightweight NLP Models
+<h1 align="center">
+  Optimizer-Aware Knowledge Distillation for Lightweight NLP Models
+</h1>
 
 A transformer-based NLP optimization framework that transfers knowledge from BERT (Teacher Model) to DistilBERT (Student Model) using Knowledge Distillation for efficient sentiment classification.
 
@@ -74,7 +76,6 @@ optimizer-aware-knowledge-distillation/
 │
 ├── requirements.txt
 ├── README.md
-└── LICENSE
 </pre>
 
 
